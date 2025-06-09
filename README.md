@@ -37,3 +37,7 @@
 運行畫面截圖
 
 ![image](https://github.com/user-attachments/assets/f743ec91-d338-41a2-b50c-300b0c3029ae)
+
+下載方法
+
+github
